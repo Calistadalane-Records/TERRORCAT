@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  TERRORCAT - TERRORCAT
+  <h3>TERRORCAT - TERRORCAT</h3>
 
   ![](TERRORCAT-512x512.png)
 

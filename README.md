@@ -6,13 +6,15 @@
 
   ![](TERRORCAT.png)
 
+  ***
+
+  <br/>
+
+  [![](./TERRORCAT/TERRORCAT-256x256.png)](./TERRORCAT/README.md)
+
 </div>
 
-***
-
 <br/>
-
-![](./TERRORCAT/Cover.png)
 
 ***
 

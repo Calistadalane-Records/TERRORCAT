@@ -1,6 +1,12 @@
 [Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [TERRORCAT](../README.md) ❰ TERRORCAT
 
-![](TERRORCAT-512x512.png)
+<br/>
+
+<div align="center">
+
+  ![](TERRORCAT-512x512.png)
+
+</div>
 
 * [01 Hamlet & The Hogs](HamletAndTheHogs.mp3)
 * [02 Have A Happy Nightmare](HaveAHappyNightmare.mp3)

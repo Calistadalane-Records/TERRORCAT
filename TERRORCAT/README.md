@@ -20,4 +20,10 @@
 
 ***
 
+Release: 2005
+
+### Notes
+
+* Track 3: Cover of "I Want You To Want Me" written by Rick Nielsen
+
 [Calistadalane Records](https://github.com/CalistadalaneRecords) ❰ [TERRORCAT](../README.md) ❰ TERRORCAT
